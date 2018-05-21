@@ -1,0 +1,44 @@
+a {
+    text-decoration-line: none;
+}
+#title {
+    color: aliceblue;
+    background-color: grey;
+    padding:24px 0  24px 24px;
+}
+
+.table {
+    display: flex;
+}
+
+.header {
+    background-color: rgb(183, 187, 190);
+    width:10%;
+    height: 100px;
+    line-height: 100px;
+    padding: 0 24px;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: aliceblue;
+
+}
+.body {
+    width: 90%;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: rgb(183, 187, 190);
+    padding:10px 0 0 10px;
+}
+
+.th {
+    display: inline;
+    font-weight: bold;
+    padding-top:10px;
+    margin-left:10px;
+}
+.td {
+    padding-right: 10px;
+    padding-top:10px;
+    margin-left:10px;
+}

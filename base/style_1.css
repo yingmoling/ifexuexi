@@ -1,0 +1,29 @@
+body {
+    padding-left:20px; 
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.header {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+
+.th {
+    font-weight:bold;
+}
+
+.td {
+    padding-right: 16px;
+}
+.dth {
+    margin-top:16px;
+}
+a {
+    text-decoration-line: none;
+}
